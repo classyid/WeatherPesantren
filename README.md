@@ -1,6 +1,6 @@
 # WeatherPesantren
 
-![WeatherPesantren Banner](https://i.ibb.co/C1K08Wh/weather-pesantren.png)
+![WeatherPesantren Banner](https://blog.classy.id/upload/gambar_berita/3dff6b3cd03dac0a28dc1cec300f3dcb_20250404150004.jpeg)
 
 WeatherPesantren adalah sistem informasi cuaca otomatis berbasis Google Apps Script yang dirancang khusus untuk warga Pesantren Kota Kediri dan sekitarnya. Sistem ini mengambil data cuaca dari Weather.com dan mendistribusikannya melalui WhatsApp dan email dalam format yang informatif dan mudah dibaca.
 
