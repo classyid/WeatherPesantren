@@ -282,7 +282,7 @@ function getWeather() {
   messageContent += `_Informasi ini disiapkan khusus untuk warga Pesantren Kota Kediri dan sekitarnya. Semoga bermanfaat untuk perencanaan aktivitas Anda._`;
 
   // Subject email yang mencakup tanggal dan jam
-  const recipientEmail = "andri@zonahelm.com"; // Ubah dengan email tujuan
+  const recipientEmail = "<email@kamu.com"; // Ubah dengan email tujuan
   const emailSubject = `Cuaca Wilayah Pesantren Kediri - ${formattedDate}`;
   const emailBody = messageContent;
 
